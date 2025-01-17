@@ -55,7 +55,7 @@ Going beyond subject areas, this metadata enables researchers to judge pertinenc
 
 ### Provenance
 The story of where datasets are hosted and the projects, people and agencies responsible for their creation and management.  Common language covers:
-* Dataset hosting location, authorship, release dates, associated paper(s) and institutions.  The Provenance Ontology ([PROVO](https://www.w3.org/TR/prov-overview/)) is often used here, as well as a number of Dublin Core metadata [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms).
+* Dataset hosting location, authorship, release dates, associated paper(s) and institutions.  The Provenance Ontology ([PROVO](https://www.w3.org/TR/prov-overview/)) is often used here, as well as a number of Dublin Core metadata [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms).  The Data Catalog Vocabulary ([DCAT](https://www.w3.org/TR/vocab-dcat-3/)) is a popular language for expressing dataset composition and provenance.
 * Authorship: [ORCID](https://orcid.org/) identifiers are now the standard way of referencing authors
 
 ### Governance
